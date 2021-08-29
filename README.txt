@@ -1,5 +1,5 @@
 
-## creating synthetic images for ObjectDetection task
+# creating synthetic images for ObjectDetection task
 (used for yolo object detection)
 
 
